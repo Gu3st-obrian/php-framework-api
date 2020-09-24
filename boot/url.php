@@ -1,0 +1,1 @@
+<?php return 'http://aides/admin-funcash/'; ?>
